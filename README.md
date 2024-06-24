@@ -6,7 +6,7 @@ Frontend developper with huge telecom background, Computerized Technologies and 
 
 Writing a products on JavaScript React library and NodeJS. Excited permanently improve my developpers skills and solutions. 
 
-The road will be overcome by the one who walks it. Here we go )
+The road will be overcome by the one who walks it. Here we go :bowtie: 
 
 My technologies lsit: 💻
 
