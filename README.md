@@ -9,17 +9,29 @@ Writing the products on JavaScript React library and NodeJS. Using for deploymen
 The road will be overcome by the one who walks it. Here we go :bowtie: 
 
 My technologies list: 💻
+
 react
+
 node
+
 linux
-typescript 
+
+typescript
+
 html
+
 css
+
 firebase
+
 redux
+
 axios
+
 bulma
+
 react router
+
 i18next
 
 powerBI, Jira
