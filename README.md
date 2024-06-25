@@ -2,11 +2,11 @@ Hi, everyone.👋
 
 About me 👀
 
-Frontend developper with huge telecom background, Computerized Technologies and Systems of Publishing and Printing Production and MBA degrees.
+I am a frontend developer with a substantial background in telecommunications. I hold degrees in Computerized Technologies and Systems of Publishing and Printing Production, as well as an MBA.
 
-Writing the products on JavaScript React library and NodeJS. Using for deployment Debian 10, 11. Linux enthusiast. Excited permanently improve my developpers skills, vision, mindset and solutions. 
+I develop products using the JavaScript React library and NodeJS. For deployment, I use Debian 10 and 11. I am a Linux enthusiast, and I am continuously excited to improve my development skills, vision, mindset, and solutions.
 
-The road will be overcome by the one who walks it. Here we go :bowtie: 
+The road will be overcome by the one who walks it. Here we go 🏃
 
 <!-- My technologies list: 
 
