@@ -8,7 +8,7 @@ Writing the products on JavaScript React library and NodeJS. Using for deploymen
 
 The road will be overcome by the one who walks it. Here we go :bowtie: 
 
-My technologies list: 💻
+<!-- My technologies list: 
 
 react
 
@@ -34,7 +34,9 @@ react router
 
 i18next
 
-powerBI, Jira
+github
+
+powerBI, Jira -->
 
 
 
